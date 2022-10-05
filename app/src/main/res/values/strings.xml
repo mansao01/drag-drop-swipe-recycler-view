@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Dragable RecyclerVIew</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Sports Info</string>
+    <string name="title_placeholder">Title</string>
+    <string name="material_me">MaterialMe</string>
+    <string name="sport_image">Sport Image</string>
+    <string name="sports_image">Sports Image</string>
+
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_description">
+        <item> Aaron Judge put a definitive stamp on one of the great single-season performances by any hitter in baseball history on Tuesday night, smashing his 62nd home run of the year to eclipse Roger Maris’s long-standing American League record and topple one of the most hallowed numbers in all of sports. \n \n
+            Before a crowd at Globe Life Field buzzing in anticipation, the New York Yankees slugger drove a 1-1 slider from Texas Rangers right-hander Jesús Tinoco into the left field seats to lead off the top of the first inning in the second game of a day-night doubleheader. \n \n Having bested Babe Ruth’s total of 60 for the 1927 Yankees six days ago, Judge finally surpassed Maris’s 61 in the penultimate game of the regular season – exactly 61 years after his predecessor set the mark for the 1961 Yankees.Few records have endured in the American sporting consciousness like Maris’s 61 home runs. \n \nAlthough the number was topped six times in the National League at the height of baseball’s steroid era – by Barry Bonds (the official major-league standard bearer with 73 in 2001), Mark McGwire (70 in 1998, 65 in 1999) and Sammy Sosa (66 in 1998, 64 in 2001 and 63 in 1999) – the Maris mark has stood the test of time in the American League since he famously chased down Ruth’s 60 on the final day of the season. \n \nAnd Maris’s record has stood untainted by the specter of performance-enhancing drugs that loomed over the game at the turn of the millennium, leading some to consider it the legitimate single-season record.</item>
+        <item>Beranda Sport Hasil Bulu Tangkis: Indonesia Raih 1 Gelar dari Vietnam Open, 3 Gelar di International Challenge Reporter Antara Editor Nurdin Saleh Senin, 3 Oktober 2022 04:51 WIB
+
+Dejan Ferdinansyah dan Gloria Emanuelle Widjaja. Dok.PBSI
+
+TEMPO.CO, Jakarta - Ganda campuran Indonesia Dejan Ferdinansyah/Gloria Emanuelle Widjaja berhasil menjuarai turnamen bulu tangkis Vietnam Open 2022. Keduanya memenangi All Indonesia Final melawan Rehan Naufal Kusharjanto/Lisa Ayu Kusumawati di Ho Chi Minh, Vietnam, Minggu.
+
+Dejan/Gloria yang berstatus unggulan keempat itu hanya butuh waktu 35 menit untuk menutup laga dengan kemenangan dua gim langsung 21-13, 21-18 atas unggulan pertama Rehan/Lisa.
+
+Gelar tersebut menjadi gelar juara ketiga beruntun bagi pasangan yang baru dipasangkan awal tahun itu, menambah kemenangan sebelumnya yang mereka raih di Denmark Masters 2022, Juni lalu dan Indonesia International Series 2022 di Yogyakarta pekan lalu.
+
+Sementara itu bagi Rehan/Lisa, kekalahan pada final kali ini menambah catatan status runner-up mereka yang sebelumnya juga hanya mampu menjadi finalis Orleans Masters 2022, yang sejauh ini merupakan capaian terbaik dari 11 turnamen yang telah mereka ikuti sepanjang tahun ini.
+
+Indonesia sebetulnya mengirimkan satu wakil ganda putri pada final turnamen level Super 100 itu.
+
+Namun, Febriana Dwipuji Kusuma/Amalia Cahaya Pratiwi gagal meraih gelar juara pertama mereka di panggung internasional setelah dijegal wakil Hong Kong Lui Lok Lok/Ng Wing Yung 16-21, 25-27.
+
+Kodak Naraoka dari Jepang menjadi juara tungga putra setelah membungkam wakil China Sun Fei Xiang 10-21, 21-14, 21-17. Sedangkan gelar tunggal putri menjadi milik wakil tuan rumah Thuy Linh Nguyen yang menang atas pemain Malaysia Goh Jin Wei.
+
+Di nomor ganda putri, titel Vietnam Open 2022 jatuh ke tangah pasangan China Ren Xian Yu/Tan Qiang setelah memenangi final melawan rekan senegara He Ji Ting/Zhou Hao Dong 17-21, 21-18, 21-8..</item>
+        <item>Zion Williamson kembali ke lapangan bersama New Orleans Pelicans setelah absen 518 hari. Dia tampil prima dan melakukan banyak hal termasuk berlari, melompat, mengejar bola, hingga berebut bola rebound. Ini memberikan kepercayaan diri untuk Pelicans bisa bersaing di musim 2022-2023.
+
+Williamson yang diturunkan selama 15 menit, mampu mencetak 13 poin dengan akurasi tembakan 4/6, ditambah 4 rebound. Pelicans juga menang 129-126 atas Bulls di Chicago, dalam laga pramusim NBA 2022-2023. Zion tampak sempurna di dua minggu sebelum musim reguler dimulai.
+
+"Rasanya fantastis. Hal yang paling membuat saya bersemangat adalah turun ke lapangan bersama rekan satu tim saya. Saya berusaha memulihkan mental, mencari kekuatan saya di lapangan. Saya hanya ingin lebih bijak dalam mengambil keputusan. Kapan dan di mana harus menyerang," ujar Zion, usai pertandingan, dikutip dari nba.com..</item>
+        <item>Bola.com, Mandaluyong - Tim bowling Indonesia merebut gelar juara umum SEA Games 2019 yang berakhir di Starmall EDSA Mandaluyong, Filipina, Minggu (8/12/2019). Tim Merah Putih mengoleksi empat medali emas, dua perak, dan satu perunggu.
+
+Billy Muhammad Islam menutup perolehan medali dengan merebut emas nomor masters dalam pertandingan hari terakhir. Billy memastikan merebut emas setelah membukukan poin tertinggi 232.Ryan Lalisang yang mengemas 224 poin meraih perak. Sementara perunggu diraih peboling Singapura, Muh Jaris Goh dengan nilai 191.
+
+Namun, di nomor masters putri, Indonesia kurang beruntung. Medali emas diraih Singapura New Hu Fen, perak milik Siti Amiyah Fahirah dari Malaysia dan perunggu direbut peboling Singapura, Shayna NG.
+
+Pelatih kepala tim boling Indonesia, David Sitorus, bersyukur dan bangga dengan skuatnya yang meraih gelar juara umum dan melampaui target medali satu emas yang dicanangkan PB PBI.
+
+"Bersyukur dengan pencapaian timnas bowling Indonesia di SEA Games 2019. Anak-anak sudah tampil luar biasa. Target satu emas, tetapi hasil di lapangan Tuhan memberikan empat emas, dua perak, dan satu perunggu," tandas David Sitorus.</item>
+        <item>Cycle sport is competitive physical activity using bicycles. There are several categories of bicycle racing including road bicycle racing, cyclo-cross, mountain bike racing, track cycling, BMX, and cycle speedway. Non-racing cycling sports include artistic cycling, cycle polo, freestyle BMX and mountain bike trials. The Union Cycliste Internationale (UCI) is the world governing body for cycling and international competitive cycling events. The International Human Powered Vehicle Association is the governing body for human-powered vehicles that imposes far fewer restrictions on their design than does the UCI. The UltraMarathon Cycling Association is the governing body for many ultra-distance cycling races..</item>
+        <item>golf, a cross-country game in which a player strikes a small ball with various clubs from a series of starting points (teeing grounds) into a series of holes on a course. The player who holes his ball in the fewest strokes wins</item>
+        <item>KOMPAS.com - Jogging atau lari santai diketahui bisa menurunkan berat badan dan obesitas. Dibandingkan latihan angkat beban yang membutuhkan banyak peralatan,
+            jogging termasuk latihan penurunan berat badan yang lebih sederhana dan fleksibel. Bahkan, jogging tidak menekan area lutut, pinggul dan pergelangan kaki terlalu keras seperti berlari biasa. Jogging malam dan penurunan berat badan Lalu, bagaimana dengan jogging malam? Bisakah membantu penurunan berat badan?</item>
+        <item>a game played between two teams of eleven people, where each team tries to win by kicking a ball into the other teams goal</item>
+        <item>Swimming is an individual or team racing sport that requires the use of one s entire body to move through water. The sport takes place in pools or open water.</item>
+        <item>Table tennis, also known as ping-pong and whiff-whaff, is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball, back and forth across a table using small solid rackets. The game takes place on a hard table divided by a net.</item>
+        <item>Tennis is a racket sport that is played either individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket that is strung with cord to strike a hollow rubber ball covered with felt over or around a net and into the opponents court.</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_image">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+
+</resources>
+
