@@ -3,6 +3,7 @@ package com.example.dragablerecyclerview
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -76,7 +77,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun refreshRecyclerView() {
         list.clear()
-        binding.rvSports.layoutManager = LinearLayoutManager(this)
+        val gridColumnCount = resources.getInteger(R.integer.grid_column_count)
+        binding.rvSports.layoutManager = GridLayoutManager(this, gridColumnCount)
         listSportsAdapter = ListSportsAdapter(list)
         binding.rvSports.adapter = listSportsAdapter
         list.addAll(listSports)
@@ -90,7 +92,8 @@ class MainActivity : AppCompatActivity() {
 
 
     private fun showRecyclerView() {
-        binding.rvSports.layoutManager = LinearLayoutManager(this)
+        val gridColumnCount = resources.getInteger(R.integer.grid_column_count)
+        binding.rvSports.layoutManager = GridLayoutManager(this, gridColumnCount)
         listSportsAdapter = ListSportsAdapter(list)
         binding.rvSports.adapter = listSportsAdapter
 

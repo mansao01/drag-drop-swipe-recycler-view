@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Dragable RecyclerVIew</string>
     <string name="news_placeholder">News</string>
@@ -9,15 +10,15 @@
 
     <string-array name="sports_titles">
         <item>Baseball</item>
-        <item>Badminton</item>
-        <item>Basketball</item>
+        <item>Bulu Tangkis</item>
+        <item>Bola Basket</item>
         <item>Bowling</item>
-        <item>Cycling</item>
+        <item>Sepedaan</item>
         <item>Golf</item>
-        <item>Running</item>
-        <item>Soccer</item>
-        <item>Swimming</item>
-        <item>Table Tennis</item>
+        <item>Lari</item>
+        <item>Bola</item>
+        <item>Renang</item>
+        <item>Tenis Meja</item>
         <item>Tennis</item>
     </string-array>
 
